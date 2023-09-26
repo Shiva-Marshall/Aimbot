@@ -3,7 +3,7 @@
 ## 1** First put all of 3 files in a directory./ *   
 
 
-## 3**In the Main.cpp file, at the line 39 in Memory give your game's executable file name (//Like in this case i used pubg.exe)    
+## 2**In the Main.cpp file, at the line 39 in Memory give your game's executable file name (//Like in this case i used pubg.exe)    
 
 
-## 4**save the file and run your game That's it!!    
+## 3**save the file and run your game That's it!!    
